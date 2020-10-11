@@ -14,6 +14,6 @@ This is my personal blog, where I put things that are interesting to me, like Ma
 
 This are a few of my latest posts:
 
-<ul>{% for post in site.posts %}
+<!-- <ul>{% for post in site.posts %}
     {% include archive-single.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->

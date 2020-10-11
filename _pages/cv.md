@@ -56,7 +56,7 @@ I was awarded a Fellowship by the Canadian Government to work with contaminant d
   * Specialized in Computational Physics
 
 
-
+<!-- 
 
 Publications
 ======
@@ -68,7 +68,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
   
 Service and leadership
