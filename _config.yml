@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Physicist, data science manager, technology enthusiast"
   location         : "São Carlos, SP"
-  email            :
+  email            : "ivan@tunguska.cc"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
