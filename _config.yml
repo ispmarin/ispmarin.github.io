@@ -279,3 +279,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# My config
+teaser: /assets/images/500x300.png
