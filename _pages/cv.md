@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Work experience
 ======
 * 2019 - Present: Data Science Manager
@@ -54,21 +52,6 @@ I was awarded a Fellowship by the Canadian Government to work with contaminant d
 
 * B.S. Physics, University of São Paulo, 2004
   * Specialized in Computational Physics
-
-
-<!-- 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
 
   
 Service and leadership

@@ -1,6 +1,6 @@
 ---
 title: Disabling services in systemd weird user folder
-categories: Python
+categories: Linux
 date: 2020-05-10
 tags:
   - linux
