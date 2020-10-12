@@ -1,3 +1,0 @@
----
-author_profile: true
----
