@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: post
 title: "Ivan Marin"
 excerpt: "About me"
 author_profile: true

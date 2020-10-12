@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Ivan Marin"
   avatar           : /assets/images/profile.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Physicist, data science manager and architect"
+  bio              : "Physicist, data science manager and all around curious"
   location         : "São Carlos, SP"
   email            : "ivan@tunguska.cc"
   links:
@@ -108,9 +108,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ispmarin"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ispmarin/"
