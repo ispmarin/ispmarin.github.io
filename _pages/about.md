@@ -1,4 +1,5 @@
 ---
+layout: splash
 title: "Ivan Marin"
 excerpt: "About me"
 author_profile: true
