@@ -67,4 +67,4 @@ External activities and publications
 
 * The Science of Games: [Shields](/files/science_videogames_shields.mkv)
 
-* GDG Campinas DataFest [O ABC do DE](o_abc_de_ivan_marin.mkv)
+* GDG Campinas DataFest [O ABC do DE](/files/o_abc_de_ivan_marin.mkv)
