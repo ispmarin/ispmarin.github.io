@@ -10,15 +10,15 @@ redirect_from:
 Work experience
 ======
 * 2019 - Present: Data Science Manager
-  * [Daitan Group](www.daitan.com)
+  * [Daitan Group](http://www.daitan.com)
   * Managing data science and data engineer teams, on long term projects and consulting initiatives
 
 * 2019 - Present: Principal Data Scientist
-  * [Daitan Group](www.daitan.com)
+  * [Daitan Group](http://www.daitan.com)
   * Principal Data Scientist, responsible for data projects at Daitan
 
 * 2017 - 2019: Systems Architect/Data Scientist
-  * [Daitan Group](www.daitan.com)
+  * [Daitan Group](http://www.daitan.com)
   * Awarded the title "Distinguished Member of Technical Staff (DMTS)"
 
 * 2018: Professor
@@ -57,4 +57,14 @@ I was awarded a Fellowship by the Canadian Government to work with contaminant d
 Service and leadership
 ======
 * Organizer of Deep Learning SP [meetup](https://www.meetup.com/Data-Science-Campinas/)
-* Organizer of Data Science Campinas [meetup](https://www.meetup.com/Deep-Learning-Sao-Paulo/)
+
+External activities and publications
+====================================
+
+* [Science Explains Why We'll Probably Never Be Able To Respawn in Real Life](https://kotaku.com/science-explains-why-well-probably-never-be-able-to-res-5977655)
+
+* The Science of Games: [Teleportation](/files/science_videogames_teleportation.mkv)
+
+* The Science of Games: [Shields](/files/science_videogames_shields.mkv)
+
+* GDG Campinas DataFest [O ABC do DE](o_abc_de_ivan_marin.mkv)
